@@ -1,0 +1,8 @@
+{
+  "name": "SISTEMA FÊNIX WORLD",
+  "description": "Sistema de gestão e CRM Fênix World com notificações personalizáveis por usuário, corte de áudio na linha do tempo e gestão comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
